@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.mlkit:text-recognition-korean:16.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/b103e5b9ef9801e5c1b09ce0f61c555a/transformed/jetified-text-recognition-korean-16.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b103e5b9ef9801e5c1b09ce0f61c555a/transformed/jetified-text-recognition-korean-16.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/b103e5b9ef9801e5c1b09ce0f61c555a/transformed/jetified-text-recognition-korean-16.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/text-recognition-korean/16.0.0/5f9a3b946f56b5f8b21688f6b66c3dfbf3ad5251/text-recognition-korean-16.0.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
