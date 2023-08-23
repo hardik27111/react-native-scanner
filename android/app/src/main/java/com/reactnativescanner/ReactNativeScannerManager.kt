@@ -35,7 +35,7 @@ class ReactNativeScannerPackage : ReactPackage {
     }
 
     override fun createViewManagers(reactContext: ReactApplicationContext): MutableList<ViewManager<out View, out ReactShadowNode<*>>> {
-        return mutableListOf(ReactNativeScannerManager(reactContext));
+        return mutableListOf(ReactNativeScannerManager());
     }
 }
 
